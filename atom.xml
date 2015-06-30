@@ -5,7 +5,7 @@
   <subtitle><![CDATA[记录 & 监督]]></subtitle>
   <link href="/notes/atom.xml" rel="self"/>
   <link href="https://www.gehaowu.com/notes/"/>
-  <updated>2015-06-27T11:13:04.436Z</updated>
+  <updated>2015-06-30T13:59:56.747Z</updated>
   <id>https://www.gehaowu.com/notes/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[【走进装逼学：】通过CSS字距调整空格]]></title>
+    <link href="https://www.gehaowu.com/notes/2015/06/Perfectionism/"/>
+    <id>https://www.gehaowu.com/notes/2015/06/Perfectionism/</id>
+    <published>2015-06-30T13:49:53.000Z</published>
+    <updated>2015-06-30T13:59:56.747Z</updated>
+    <content type="html"><![CDATA[<p>抄来的主页，发现对方用了好多空格，</p>
+<p>想着空格多不舒服。。。</p>
+<p>就想通过调整字距来去掉空格</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">letter-spacing: <span class="number">1</span>em;</span><br></pre></td></tr></table></figure>
+<p>然后悲剧的发现 <strong>不居中了</strong> 。。。</p>
+<p><img src="//dn-nimages.qbox.me/2015/06/imitation_of_nature1.png" alt="道法自然"></p>
+<a id="more"></a>
+<p>想想算了，，，改回去吧。。</p>
+<p><img src="//dn-nimages.qbox.me/2015/06/imitation_of_nature2.png" alt="道法自然"></p>
+<p>原方案：<br><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 头部代码 --&gt;</span></span><br><span class="line">	<span class="tag">&lt;<span class="title">header</span> <span class="attribute">id</span>=<span class="value">"header"</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">h1</span>&gt;</span>道&amp;nbsp;&amp;nbsp;法&amp;nbsp;&amp;nbsp;自&amp;nbsp;&amp;nbsp;然<span class="tag">&lt;/<span class="title">h1</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">p</span>&gt;</span>Welcome to Ge Haowu's Personal Homepage!<span class="tag">&lt;/<span class="title">p</span>&gt;</span></span><br><span class="line">		<span class="tag">&lt;<span class="title">nav</span>&gt;</span></span><br><span class="line">			<span class="tag">&lt;<span class="title">ul</span>&gt;</span></span><br></pre></td></tr></table></figure></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>抄来的主页，发现对方用了好多空格，</p>
+<p>想着空格多不舒服。。。</p>
+<p>就想通过调整字距来去掉空格</p>
+<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">letter-spacing: <span class="number">1</span>em;</span><br></pre></td></tr></table></figure>
+<p>然后悲剧的发现 <strong>不居中了</strong> 。。。</p>
+<p><img src="//dn-nimages.qbox.me/2015/06/imitation_of_nature1.png" alt="道法自然"></p>]]>
+    
+    </summary>
+    
+      <category term="CSS" scheme="https://www.gehaowu.com/notes/tags/CSS/"/>
+    
+      <category term="信息技术" scheme="https://www.gehaowu.com/notes/tags/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="信息技术" scheme="https://www.gehaowu.com/notes/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[【走进装逼学：】通过 netcraft 查看部分服务器信息]]></title>
