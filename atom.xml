@@ -5,7 +5,7 @@
   <subtitle><![CDATA[记录 & 监督]]></subtitle>
   <link href="/notes/atom.xml" rel="self"/>
   <link href="https://www.gehaowu.com/notes/"/>
-  <updated>2015-06-30T13:59:56.747Z</updated>
+  <updated>2015-07-01T12:36:27.374Z</updated>
   <id>https://www.gehaowu.com/notes/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[通过 Reaver 测试 WPS 安全性]]></title>
+    <link href="https://www.gehaowu.com/notes/2015/07/WPS-safety-test-by-Reaver/"/>
+    <id>https://www.gehaowu.com/notes/2015/07/WPS-safety-test-by-Reaver/</id>
+    <published>2015-07-01T12:14:17.000Z</published>
+    <updated>2015-07-01T12:36:27.374Z</updated>
+    <content type="html"><![CDATA[<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">airmon-ng start wlan0</span><br><span class="line">airodump-ng wlan0</span><br><span class="line">reaver -i moninterface -b bssid -vv</span><br></pre></td></tr></table></figure>
+<a id="more"></a>]]></content>
+    <summary type="html">
+    <![CDATA[<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">airmon-ng start wlan0</span><br><span class="line">airodump-ng wlan0</span><br><span class="line">reaver -i moninterface -b bssid -vv</span><br></pre></td></tr></table></figure>]]>
+    
+    </summary>
+    
+      <category term="Reaver" scheme="https://www.gehaowu.com/notes/tags/Reaver/"/>
+    
+      <category term="WPS" scheme="https://www.gehaowu.com/notes/tags/WPS/"/>
+    
+      <category term="信息技术" scheme="https://www.gehaowu.com/notes/tags/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="安全" scheme="https://www.gehaowu.com/notes/tags/%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="开源" scheme="https://www.gehaowu.com/notes/tags/%E5%BC%80%E6%BA%90/"/>
+    
+      <category term="信息技术" scheme="https://www.gehaowu.com/notes/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[【走进装逼学：】通过CSS字距调整空格]]></title>
