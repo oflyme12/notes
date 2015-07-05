@@ -5,7 +5,7 @@
   <subtitle><![CDATA[记录 & 监督]]></subtitle>
   <link href="/notes/atom.xml" rel="self"/>
   <link href="https://www.gehaowu.com/notes/"/>
-  <updated>2015-07-01T12:36:27.374Z</updated>
+  <updated>2015-07-05T02:00:23.073Z</updated>
   <id>https://www.gehaowu.com/notes/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://www.gehaowu.com/notes/2015/07/WPS-safety-test-by-Reaver/"/>
     <id>https://www.gehaowu.com/notes/2015/07/WPS-safety-test-by-Reaver/</id>
     <published>2015-07-01T12:14:17.000Z</published>
-    <updated>2015-07-01T12:36:27.374Z</updated>
+    <updated>2015-07-05T02:00:23.073Z</updated>
     <content type="html"><![CDATA[<figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">airmon-ng start wlan0</span><br><span class="line">airodump-ng wlan0</span><br><span class="line">reaver -i moninterface -b bssid -vv</span><br></pre></td></tr></table></figure>
 <a id="more"></a>]]></content>
     <summary type="html">
@@ -47,7 +47,7 @@
     <link href="https://www.gehaowu.com/notes/2015/07/homepage-copyright/"/>
     <id>https://www.gehaowu.com/notes/2015/07/homepage-copyright/</id>
     <published>2015-07-01T12:14:17.000Z</published>
-    <updated>2015-07-04T14:30:28.951Z</updated>
+    <updated>2015-07-05T02:00:27.767Z</updated>
     <content type="html"><![CDATA[<h2 id="模板">模板</h2><p>clone pawlobanano 的</p>
 <p><a href="https://github.com/pawlobanano/pawlobanano.github.io" target="_blank" rel="external">https://github.com/pawlobanano/pawlobanano.github.io</a></p>
 <h2 id="Credits">Credits</h2><p>Aerial 1.0 by HTML5 UP<br>html5up.net | @n33co<br>Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)</p>
@@ -82,7 +82,7 @@
     <link href="https://www.gehaowu.com/notes/2015/06/Perfectionism/"/>
     <id>https://www.gehaowu.com/notes/2015/06/Perfectionism/</id>
     <published>2015-06-30T13:49:53.000Z</published>
-    <updated>2015-06-30T13:59:56.747Z</updated>
+    <updated>2015-07-05T02:00:34.293Z</updated>
     <content type="html"><![CDATA[<p>抄来的主页，发现对方用了好多空格，</p>
 <p>想着空格多不舒服。。。</p>
 <p>就想通过调整字距来去掉空格</p>
@@ -117,7 +117,7 @@
     <link href="https://www.gehaowu.com/notes/2015/06/netcraft/"/>
     <id>https://www.gehaowu.com/notes/2015/06/netcraft/</id>
     <published>2015-06-27T06:44:58.000Z</published>
-    <updated>2015-06-27T11:13:04.436Z</updated>
+    <updated>2015-07-05T02:00:44.355Z</updated>
     <content type="html"><![CDATA[<p>向url=后面添加需要查看的域名，打开就OK了，<a href="http://toolbar.netcraft.com/site_report?url=" target="_blank" rel="external">http://toolbar.netcraft.com/site_report?url=</a></p>
 <p>就像这样子，</p>
 <p><a href="http://toolbar.netcraft.com/site_report?url=https://www.gehaowu.com" target="_blank" rel="external">http://toolbar.netcraft.com/site_report?url=https://www.gehaowu.com</a></p>
@@ -144,7 +144,7 @@
     <link href="https://www.gehaowu.com/notes/2015/06/Construction-for-the-Chinese-network-environment-high-speed-personal-website/"/>
     <id>https://www.gehaowu.com/notes/2015/06/Construction-for-the-Chinese-network-environment-high-speed-personal-website/</id>
     <published>2015-06-10T00:16:00.000Z</published>
-    <updated>2015-06-26T11:52:35.730Z</updated>
+    <updated>2015-07-05T02:00:48.881Z</updated>
     <content type="html"><![CDATA[<p>前些日子在万网订购了一个款免费的虚拟主机产品，速度很快。。。但是。。。<br>竟然对中文目录支持如此恶心。。想想，算了，放弃主机产品。。。<br>（说的那么好好像真的要用一样的，，，其实我申请那个主机主要是为了备案的啦，<br>既然面向国内用户，且不会写<strong>不良</strong>信息，那么备案也没什么大不了的。）</p>
 <h2 id="重新选择托管方案">重新选择托管方案</h2><p>免费托管方案明细选择 <a href="https://github.com" target="_blank" rel="external">github</a>  -_-!</p>
 <p>由于 Github 本身在国外，从过来拉取数据会有较大的网络延时，如果就这样直接托管在 Github 上，<br>别说高速网站了，连能不能有效访问都是个问题，因为大中华区还有一款名为长城防火墙网络版的存在啊。。哈哈哈</p>
@@ -193,7 +193,7 @@
     <link href="https://www.gehaowu.com/notes/2015/06/Regularly-got-me-a-personal-website-data-from-github-by-cron/"/>
     <id>https://www.gehaowu.com/notes/2015/06/Regularly-got-me-a-personal-website-data-from-github-by-cron/</id>
     <published>2015-06-09T05:43:32.000Z</published>
-    <updated>2015-06-26T11:52:35.730Z</updated>
+    <updated>2015-07-05T02:00:54.557Z</updated>
     <content type="html"><![CDATA[<h2 id="创建个人网站主机配置文件，">创建个人网站主机配置文件，</h2><p>先设置几个域名的虚拟主机，</p>
 <p>，让所有请求 gehaowu.com,www.gehaowu.com 两个域名的 http 请求，强制跳转到 https 协议的 www.gehaowu.com ，<br>接着一个对发给 gehaowu.com 的 https 请求也强制转发给 www.gehaowu.com 。</p>
 <p>关闭日志记录。</p>
@@ -240,7 +240,7 @@
     <link href="https://www.gehaowu.com/notes/2015/06/lending-rates-and-investment-income/"/>
     <id>https://www.gehaowu.com/notes/2015/06/lending-rates-and-investment-income/</id>
     <published>2015-06-02T03:02:11.000Z</published>
-    <updated>2015-06-26T11:52:35.730Z</updated>
+    <updated>2015-07-05T02:01:00.393Z</updated>
     <content type="html"><![CDATA[<h4 id="烂尾了。。。没动力写了。。。。。。。。。。">烂尾了。。。没动力写了。。。。。。。。。。</h4><p>贷款利率与投资收益<br><a id="more"></a><br>===<strong>未完工</strong>===</p>
 <h3 id="相关计算公式">相关计算公式</h3><!-- 等额本金还款计算公式 -->
 <p>$等额本金每月还款额 = {贷款本金金额 \over 还款月数} + ({本金 - 累计已还本金额}) \times 月利率$</p>
@@ -298,7 +298,7 @@
     <link href="https://www.gehaowu.com/notes/2015/05/depreciation-of-several-fixed-assets-under-accounting-standards/"/>
     <id>https://www.gehaowu.com/notes/2015/05/depreciation-of-several-fixed-assets-under-accounting-standards/</id>
     <published>2015-05-27T00:26:06.000Z</published>
-    <updated>2015-06-26T11:52:35.730Z</updated>
+    <updated>2015-07-05T02:01:21.800Z</updated>
     <content type="html"><![CDATA[<h2 id="会计准则规定的几种固定资产折旧方法">会计准则规定的几种固定资产折旧方法</h2><h2 id="年限平均法">年限平均法</h2><p><strong>年限平均法</strong>又称直线法，是将固定资产的折旧均衡地分摊到各期的一种方法。</p>
 <h2 id="工作量法">工作量法</h2><p><strong>工作量法</strong>是指按实际工作量计提固定资产折旧额的一种方法。</p>
 <h2 id="双倍余额递减法">双倍余额递减法</h2><p><strong>加速折旧法</strong>是一种使用前期提取折旧较多，固定资产成本在使用年限内尽早得到价值补偿的折旧方法。</p>
@@ -373,7 +373,7 @@
     <link href="https://www.gehaowu.com/notes/2015/05/Markdown-syntax-description-Simplified-Chinese-Version/"/>
     <id>https://www.gehaowu.com/notes/2015/05/Markdown-syntax-description-Simplified-Chinese-Version/</id>
     <published>2015-05-16T13:35:08.000Z</published>
-    <updated>2015-06-26T11:52:35.683Z</updated>
+    <updated>2015-07-05T02:01:29.676Z</updated>
     <content type="html"><![CDATA[<p>================</p>
 <ul>
 <li><a href="#overview">概述</a><ul>
@@ -928,7 +928,7 @@ _   底线
     <link href="https://www.gehaowu.com/notes/2015/05/Update-FreeBSD-via-SSH-remote-cross-version/"/>
     <id>https://www.gehaowu.com/notes/2015/05/Update-FreeBSD-via-SSH-remote-cross-version/</id>
     <published>2015-05-06T00:54:08.000Z</published>
-    <updated>2015-06-26T11:52:35.652Z</updated>
+    <updated>2015-07-05T02:01:35.157Z</updated>
     <content type="html"><![CDATA[<p>因为远程，所以你，只有一次机会！！！</p>
 <p>任务需求：<br>    远程将系统更新到最新版，并彻底清理掉原系统管理员可能存在的操作遗留问题。</p>
 <p>需要注意的地方：<br>    服务器硬件在外地并未开启IPMI功能，且因为特殊原因禁止与机房管理员联系。</p>
@@ -994,7 +994,7 @@ _   底线
     <link href="https://www.gehaowu.com/notes/2015/05/hello-world/"/>
     <id>https://www.gehaowu.com/notes/2015/05/hello-world/</id>
     <published>2015-04-30T16:00:00.000Z</published>
-    <updated>2015-06-26T11:52:35.652Z</updated>
+    <updated>2015-07-05T02:01:39.531Z</updated>
     <content type="html"><![CDATA[<h3 id="English_version">English version</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">March <span class="number">23</span>, <span class="number">1990</span>, I came to this world,</span><br><span class="line">Hello World!</span><br></pre></td></tr></table></figure>
 <h3 id="简体中文版本">简体中文版本</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="number">1990</span>年<span class="number">03</span>月<span class="number">23</span>日，我来到这个世界，</span><br><span class="line">你好，世界！</span><br></pre></td></tr></table></figure>]]></content>
     <summary type="html">
