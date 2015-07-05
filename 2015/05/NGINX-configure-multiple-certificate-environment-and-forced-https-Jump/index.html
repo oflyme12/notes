@@ -20,7 +20,7 @@ FreeBSD 安装 NGINX 很简单，如果偷懒，可以直接：">
 <meta property="og:image" content="https://www.gehaowu.com//dn-nimages.qbox.me/2015/05/https.png">
 <meta property="og:image" content="https://www.gehaowu.com//dn-nimages.qbox.me/2015/05/ports.nginx.png">
 <meta property="og:image" content="https://www.gehaowu.com//dn-nimages.qbox.me/other/CC-BY-SA-ND.png">
-<meta property="og:updated_time" content="2015-06-26T11:52:35.714Z">
+<meta property="og:updated_time" content="2015-07-05T00:58:04.442Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="NGINX 配置多证书环境及强制 https 跳转">
 <meta name="twitter:description" content="启用 HTTPS 的原因原因嘛，1，https 保证网站传说过程中不被修改，2，Google 提升了 https 网站的权重，3，。。。
@@ -128,6 +128,13 @@ var _hmt = _hmt || [];
     
     <div class="article-entry" itemprop="articleBody">
       
+        <!-- Table of Contents -->
+        
+            <div id="toc" class="toc-article">
+              <strong class="toc-title">提纲</strong>
+              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#启用_HTTPS_的原因"><span class="toc-number">1.</span> <span class="toc-text">启用 HTTPS 的原因</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#NGINX_主配置文件"><span class="toc-number">2.</span> <span class="toc-text">NGINX 主配置文件</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#创建默认站点配置文件"><span class="toc-number">3.</span> <span class="toc-text">创建默认站点配置文件</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#个人网站的配置文件"><span class="toc-number">4.</span> <span class="toc-text">个人网站的配置文件</span></a></li></ol>
+            </div>
+        
         <h2 id="启用_HTTPS_的原因">启用 HTTPS 的原因</h2><p>原因嘛，<br>1，https 保证网站传说过程中不被修改，<br>2，Google 提升了 https 网站的权重，<br>3，。。。</p>
 <p>其实，很简单嘛，，，<br>根本还是在比较装逼呗。。。<br><img src="//dn-nimages.qbox.me/2015/05/https.png" alt="https"><br>小绿锁哟，哈哈哈哈哈哈</p>
 <p>下面开始，通过 FreeBSD 的包管理器安 NGINX ，<br>（个人强力不推荐绕过操作系统包管理工具自己编译的超级装逼行为！）</p>
@@ -156,7 +163,7 @@ var _hmt = _hmt || [];
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://www.gehaowu.com/notes/2015/05/NGINX-configure-multiple-certificate-environment-and-forced-https-Jump/" data-id="cibprjyve0020jk9y2pzpofmi" class="article-share-link">Share</a>
+      <a data-url="https://www.gehaowu.com/notes/2015/05/NGINX-configure-multiple-certificate-environment-and-forced-https-Jump/" data-id="cibpsdqm80020449yz5elfj41" class="article-share-link">Share</a>
       
         <a href="https://www.gehaowu.com/notes/2015/05/NGINX-configure-multiple-certificate-environment-and-forced-https-Jump/#disqus_thread" class="article-comment-link">Comments</a>
       

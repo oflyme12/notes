@@ -3,6 +3,34 @@
 
 
     
+  <url>
+    <loc>https://www.gehaowu.com/notes/2015/05/NGINX-configure-multiple-certificate-environment-and-forced-https-Jump/</loc>
+    <lastmod>2015-07-05T00:58:04.442Z</lastmod>
+    <data>
+        <display>
+        <title>NGINX 配置多证书环境及强制 https 跳转</title>
+        <pubTime>2015-05-23T14:52:00.000Z</pubTime>
+        
+        <tag>FreeBSD</tag>
+         
+        <tag>NGINX</tag>
+         
+        <tag>SSL</tag>
+         
+        <tag>信息技术</tag>
+         
+        <tag>开源</tag>
+         
+         
+           
+             
+              <breadCrumb title="信息技术" url="https://www.gehaowu.com/notes/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
     
   <url>
@@ -106,34 +134,6 @@
 
     
   <url>
-    <loc>https://www.gehaowu.com/notes/2015/06/Regularly-got-me-a-personal-website-data-from-github-by-cron/</loc>
-    <lastmod>2015-06-26T11:52:35.730Z</lastmod>
-    <data>
-        <display>
-        <title>通过cron定期从github上拉去个人网站数据</title>
-        <pubTime>2015-06-09T05:43:32.000Z</pubTime>
-        
-        <tag>Github</tag>
-         
-        <tag>NGINX</tag>
-         
-        <tag>SSL</tag>
-         
-        <tag>信息技术</tag>
-         
-        <tag>开源</tag>
-         
-         
-           
-             
-              <breadCrumb title="信息技术" url="https://www.gehaowu.com/notes/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>https://www.gehaowu.com/notes/2015/06/lending-rates-and-investment-income/</loc>
     <lastmod>2015-06-26T11:52:35.730Z</lastmod>
     <data>
@@ -210,14 +210,14 @@
 
     
   <url>
-    <loc>https://www.gehaowu.com/notes/2015/05/NGINX-configure-multiple-certificate-environment-and-forced-https-Jump/</loc>
-    <lastmod>2015-06-26T11:52:35.714Z</lastmod>
+    <loc>https://www.gehaowu.com/notes/2015/06/Regularly-got-me-a-personal-website-data-from-github-by-cron/</loc>
+    <lastmod>2015-06-26T11:52:35.730Z</lastmod>
     <data>
         <display>
-        <title>NGINX 配置多证书环境及强制 https 跳转</title>
-        <pubTime>2015-05-23T14:52:00.000Z</pubTime>
+        <title>通过cron定期从github上拉去个人网站数据</title>
+        <pubTime>2015-06-09T05:43:32.000Z</pubTime>
         
-        <tag>FreeBSD</tag>
+        <tag>Github</tag>
          
         <tag>NGINX</tag>
          

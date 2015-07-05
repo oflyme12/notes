@@ -320,7 +320,7 @@
     <link href="https://www.gehaowu.com/notes/2015/05/NGINX-configure-multiple-certificate-environment-and-forced-https-Jump/"/>
     <id>https://www.gehaowu.com/notes/2015/05/NGINX-configure-multiple-certificate-environment-and-forced-https-Jump/</id>
     <published>2015-05-23T14:52:00.000Z</published>
-    <updated>2015-06-26T11:52:35.714Z</updated>
+    <updated>2015-07-05T00:58:04.442Z</updated>
     <content type="html"><![CDATA[<h2 id="启用_HTTPS_的原因">启用 HTTPS 的原因</h2><p>原因嘛，<br>1，https 保证网站传说过程中不被修改，<br>2，Google 提升了 https 网站的权重，<br>3，。。。</p>
 <p>其实，很简单嘛，，，<br>根本还是在比较装逼呗。。。<br><img src="//dn-nimages.qbox.me/2015/05/https.png" alt="https"><br>小绿锁哟，哈哈哈哈哈哈</p>
 <p>下面开始，通过 FreeBSD 的包管理器安 NGINX ，<br>（个人强力不推荐绕过操作系统包管理工具自己编译的超级装逼行为！）</p>
