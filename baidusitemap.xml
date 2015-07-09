@@ -4,6 +4,34 @@
 
     
   <url>
+    <loc>https://www.gehaowu.com/notes/2015/05/NGINX-configure-multiple-certificate-environment-and-forced-https-Jump/</loc>
+    <lastmod>2015-07-09T12:22:26.836Z</lastmod>
+    <data>
+        <display>
+        <title>NGINX 配置多证书环境及强制 https 跳转</title>
+        <pubTime>2015-05-23T14:52:00.000Z</pubTime>
+        
+        <tag>FreeBSD</tag>
+         
+        <tag>NGINX</tag>
+         
+        <tag>SSL</tag>
+         
+        <tag>信息技术</tag>
+         
+        <tag>开源</tag>
+         
+         
+           
+             
+              <breadCrumb title="信息技术" url="https://www.gehaowu.com/notes/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.gehaowu.com/notes/2015/06/Perfectionism/</loc>
     <lastmod>2015-07-05T13:26:56.273Z</lastmod>
     <data>
@@ -259,34 +287,6 @@
         <tag>信息技术</tag>
          
         <tag>安全</tag>
-         
-        <tag>开源</tag>
-         
-         
-           
-             
-              <breadCrumb title="信息技术" url="https://www.gehaowu.com/notes/categories/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://www.gehaowu.com/notes/2015/05/NGINX-configure-multiple-certificate-environment-and-forced-https-Jump/</loc>
-    <lastmod>2015-07-05T00:58:04.442Z</lastmod>
-    <data>
-        <display>
-        <title>NGINX 配置多证书环境及强制 https 跳转</title>
-        <pubTime>2015-05-23T14:52:00.000Z</pubTime>
-        
-        <tag>FreeBSD</tag>
-         
-        <tag>NGINX</tag>
-         
-        <tag>SSL</tag>
-         
-        <tag>信息技术</tag>
          
         <tag>开源</tag>
          
