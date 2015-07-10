@@ -114,8 +114,8 @@ button::-moz-focus-inner {
   font-family: FontAwesome;
   font-style: normal;
   font-weight: normal;
-  src: url("fonts/fontawesome-webfont.eot?v=#4.0.3");
-  src: url("fonts/fontawesome-webfont.eot?#iefix&v=#4.0.3") format("embedded-opentype"), url("fonts/fontawesome-webfont.woff?v=#4.0.3") format("woff"), url("fonts/fontawesome-webfont.ttf?v=#4.0.3") format("truetype"), url("fonts/fontawesome-webfont.svg#fontawesomeregular?v=#4.0.3") format("svg");
+  src: url("fonts/fontawesome-webfont.eot?v=#4.3.0");
+  src: url("fonts/fontawesome-webfont.eot?#iefix&v=#4.3.0") format("embedded-opentype"), url("fonts/fontawesome-webfont.woff?v=#4.3.0") format("woff"), url("fonts/fontawesome-webfont.ttf?v=#4.3.0") format("truetype"), url("fonts/fontawesome-webfont.svg#fontawesomeregular?v=#4.3.0") format("svg");
 }
 html,
 body,
@@ -865,7 +865,7 @@ a.article-title:hover {
 }
 .article-share-twitter,
 .article-share-facebook,
-.article-share-pinterest,
+.article-share-qq,
 .article-share-google {
   width: 50px;
   height: 36px;
@@ -877,7 +877,7 @@ a.article-title:hover {
 }
 .article-share-twitter:before,
 .article-share-facebook:before,
-.article-share-pinterest:before,
+.article-share-qq:before,
 .article-share-google:before {
   font-size: 20px;
   font-family: FontAwesome;
@@ -892,7 +892,7 @@ a.article-title:hover {
 }
 .article-share-twitter:hover,
 .article-share-facebook:hover,
-.article-share-pinterest:hover,
+.article-share-qq:hover,
 .article-share-google:hover {
   color: #fff;
 }
@@ -910,10 +910,10 @@ a.article-title:hover {
   background: #3b5998;
   text-shadow: 0 1px #2f477a;
 }
-.article-share-pinterest:before {
-  content: "\f0d2";
+.article-share-qq:before {
+  content: "\f1d6";
 }
-.article-share-pinterest:hover {
+.article-share-qq:hover {
   background: #cb2027;
   text-shadow: 0 1px #a21a1f;
 }
