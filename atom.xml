@@ -5,7 +5,7 @@
   <subtitle><![CDATA[记录 & 监督]]></subtitle>
   <link href="/notes/atom.xml" rel="self"/>
   <link href="https://www.gehaowu.com/notes//"/>
-  <updated>2015-07-15T13:16:16.925Z</updated>
+  <updated>2015-07-17T16:56:27.932Z</updated>
   <id>https://www.gehaowu.com/notes//</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[修复IE下显示br换行符显示方块问题]]></title>
+    <link href="https://www.gehaowu.com/notes/2015/07/repair-box-br/"/>
+    <id>https://www.gehaowu.com/notes/2015/07/repair-box-br/</id>
+    <published>2015-07-17T16:48:25.000Z</published>
+    <updated>2015-07-17T16:56:27.932Z</updated>
+    <content type="html"><![CDATA[<p>发现 IE 下竟然</p>
+<p><img src="//dn-nimages.qbox.me/2015/07/br1.png" alt="IE 下显示的尾部"></p>
+<p>会显示一个方块。。。</p>
+<p>然后。。。定位发现是 br 换行符导致的，直接取消掉 br 换行符，换成 p 就可以了，哈哈哈</p>
+<p><img src="//dn-nimages.qbox.me/2015/07/br2.png" alt="取消 BR 换行符"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>发现 IE 下竟然</p>
+<p><img src="//dn-nimages.qbox.me/2015/07/br1.png" alt="IE 下显示的尾部"></p>
+<p>会显示一个方块。。。</p>
+<p>然后。。。定位发现是 br 换行符导致的，直接取消掉 br ]]>
+    </summary>
+    
+      <category term="IE" scheme="https://www.gehaowu.com/notes/tags/IE/"/>
+    
+      <category term="碎碎念" scheme="https://www.gehaowu.com/notes/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+      <category term="网络" scheme="https://www.gehaowu.com/notes/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="碎碎念" scheme="https://www.gehaowu.com/notes/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[打酱油]]></title>
