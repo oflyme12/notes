@@ -5,7 +5,7 @@
   <subtitle><![CDATA[记录 & 监督]]></subtitle>
   <link href="/notes/atom.xml" rel="self"/>
   <link href="https://www.gehaowu.com/notes//"/>
-  <updated>2015-07-17T16:56:27.932Z</updated>
+  <updated>2015-07-21T12:39:12.498Z</updated>
   <id>https://www.gehaowu.com/notes//</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[我读书少，你不要骗我]]></title>
+    <link href="https://www.gehaowu.com/notes/2015/07/%E6%88%91%E8%AF%BB%E4%B9%A6%E5%B0%91%EF%BC%8C%E4%BD%A0%E4%B8%8D%E8%A6%81%E9%AA%97%E6%88%91/"/>
+    <id>https://www.gehaowu.com/notes/2015/07/我读书少，你不要骗我/</id>
+    <published>2015-07-21T12:30:59.000Z</published>
+    <updated>2015-07-21T12:39:12.498Z</updated>
+    <content type="html"><![CDATA[<p>找了好久，终于翻出来了，哈哈哈</p>
+<p><img src="//dn-nimages.qbox.me/2015/07/wodushushaonibuyaopianwo.gif" alt="我读书少，你不要骗我"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>找了好久，终于翻出来了，哈哈哈</p>
+<p><img src="//dn-nimages.qbox.me/2015/07/wodushushaonibuyaopianwo.gif" alt="我读书少，你不要骗我"></p>
+]]>
+    </summary>
+    
+      <category term="碎碎念" scheme="https://www.gehaowu.com/notes/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+      <category term="网络" scheme="https://www.gehaowu.com/notes/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="碎碎念" scheme="https://www.gehaowu.com/notes/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[修复IE下显示br换行符显示方块问题]]></title>
